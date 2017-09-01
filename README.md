@@ -6,6 +6,6 @@ A place for all the exercises from the Chris Pine book: "Learn To Program" Secon
 ## Contents  
 
 Chapter 2:&nbsp;&nbsp;&nbsp;&nbsp;Numbers
-	- calc.rb
-	- chap2challenges.rb
+* calc.rb
+* chap2challenges.rb
 
