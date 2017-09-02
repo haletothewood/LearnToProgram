@@ -1,0 +1,10 @@
+puts 'Hello.'
+puts 'Ruby rocks.'
+puts '5 is my favourite number...what is yours?'
+puts 'Snoopy says #%^?&*@! when he stubs his toe.'
+puts '     '
+puts ''
+
+puts 'Hello, world!'
+puts ''
+puts 'Good-bye.'
