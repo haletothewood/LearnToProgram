@@ -8,4 +8,10 @@ A place for all the exercises from the Chris Pine book: "Learn To Program" Secon
 Chapter 2:&nbsp;&nbsp;&nbsp;&nbsp;Numbers
 * calc.rb
 * chap2challenges.rb
+  
+Chapter 3:&nbsp;&nbsp;&nbsp;&nbsp;Letters
+* letters1.rb
+* letters2.rb
+* letters3.rb
+* letters4.rb
 
