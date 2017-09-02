@@ -1,5 +1,5 @@
 # Learn To Program
-A place for all the exercises from the Chris Pine book: "Learn To Program" Second Edition
+A place for all the exercises from the Chris Pine book: "Learn To Program" Second Edition. Studying as part of the Makers Academy Pre Course material (week 2).
 
 [<img src="https://pine.fm/images/LTP2_cover.jpg" width=150>](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view)
   
