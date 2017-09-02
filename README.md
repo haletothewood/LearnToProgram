@@ -14,4 +14,7 @@ Chapter 3:&nbsp;&nbsp;&nbsp;&nbsp;Letters
 * letters2.rb
 * letters3.rb
 * letters4.rb
+  
+Chapter 4:&nbsp;&nbsp;&nbsp;&nbsp;Variables & Assignments
+* variables.rb
 
