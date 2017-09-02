@@ -30,3 +30,9 @@ Chapter 6: More about methods
 * angryboss.rb
 * tableofcontents.rb
 
+Chapter 7: Flow Control
+* 99bottles.rb
+* angrygrandma.rb
+* leapyear.rb
+
+
