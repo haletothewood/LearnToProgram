@@ -5,16 +5,16 @@ A place for all the exercises from the Chris Pine book: "Learn To Program" Secon
   
 ## Contents  
 
-Chapter 2:&nbsp;&nbsp;&nbsp;&nbsp;Numbers
+Chapter 2: Numbers
 * calc.rb
 * chap2challenges.rb
   
-Chapter 3:&nbsp;&nbsp;&nbsp;&nbsp;Letters
+Chapter 3: Letters
 * letters1.rb
 * letters2.rb
 * letters3.rb
 * letters4.rb
   
-Chapter 4:&nbsp;&nbsp;&nbsp;&nbsp;Variables & Assignments
+Chapter 4: Variables & Assignments
 * variables.rb
 
