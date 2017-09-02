@@ -18,3 +18,8 @@ Chapter 3: Letters
 Chapter 4: Variables & Assignments
 * variables.rb
 
+Chapter 5: Mixing It Up
+* mixingitup1.rb
+* mixingitup2.rb
+* mixingitup3.rb
+
