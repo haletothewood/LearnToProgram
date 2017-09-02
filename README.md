@@ -23,3 +23,10 @@ Chapter 5: Mixing It Up
 * mixingitup2.rb
 * mixingitup3.rb
 
+Chapter 6: More about methods
+* methods1.rb
+* methods2.rb
+* math.rb
+* angryboss.rb
+* tableofcontents.rb
+
