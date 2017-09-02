@@ -7,7 +7,7 @@ A place for all the exercises from the Chris Pine book: "Learn To Program" Secon
 
 Chapter 2: Numbers
 * calc.rb
-* chap2challenges.rb
+* numbers.rb
   
 Chapter 3: Letters
 * letters1.rb
