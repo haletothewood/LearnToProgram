@@ -1,6 +1,6 @@
 def array_sort
 
-	puts "Please being entering your chose words, one per line followed by enter."
+	puts "Please being entering your chosen words, one per line, followed by enter."
 	puts "When you're done please press enter on an empty line."
 	puts "Ready: > "
 
