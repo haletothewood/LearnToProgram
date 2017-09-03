@@ -39,4 +39,9 @@ Chapter 8: Arrays and Iterations
 * arraysort.rb
 * tableofcontents2.rb
 
+Chapter 9: Writing Your Own Methods
+* ask.rb
+* numerals.rb
+* modernnumerals.rb
+
 
