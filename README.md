@@ -35,4 +35,8 @@ Chapter 7: Flow Control
 * angrygrandma.rb
 * leapyear.rb
 
+Chapter 8: Arrays and Iterations
+* arraysort.rb
+* tableofcontents2.rb
+
 
