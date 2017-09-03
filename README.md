@@ -6,42 +6,42 @@ A place for all the exercises from the Chris Pine book: "Learn To Program" Secon
 ## Contents  
 
 Chapter 2: Numbers
-* calc.rb
-* numbers.rb
+* ex1.rb - simple calculus
+* ex2.rb - hours in year, minutes in decade, age in seconds
   
 Chapter 3: Letters
-* letters1.rb
-* letters2.rb
-* letters3.rb
-* letters4.rb
+* ex1.rb - strings
+* ex2.rb - concatenating
+* ex3.rb - concatenating gone awry
+* ex4.rb - escapes
   
 Chapter 4: Variables & Assignments
-* variables.rb
+* ex1.rb - setting variables
 
 Chapter 5: Mixing It Up
-* mixingitup1.rb
-* mixingitup2.rb
-* mixingitup3.rb
+* ex1.rb - converting strings and integers
+* ex2.rb - gets
+* ex3.rb - chomp
 
 Chapter 6: More about methods
-* methods1.rb
-* methods2.rb
-* math.rb
-* angryboss.rb
-* tableofcontents.rb
+* ex1.rb - angry boss!
+* ex2.rb - the Math class
+* ex3.rb - string functions
+* ex4.rb - more string functions
+* ex5.rb - string formatting
 
 Chapter 7: Flow Control
-* 99bottles.rb
-* angrygrandma.rb
-* leapyear.rb
+* ex1.rb - 99 bottles of beer while loop
+* ex2.rb - angry grandma!
+* ex3.rb - leap year function
 
 Chapter 8: Arrays and Iterations
-* arraysort.rb
-* tableofcontents2.rb
+* ex1.rb - array sort
+* ex2.rb - array index
 
 Chapter 9: Writing Your Own Methods
-* ask.rb
-* numerals.rb
-* modernnumerals.rb
+* ex1.rb - returning functions
+* ex2.rb - roman numerals
+* ex3.rb - modern roman numerals
 
 
