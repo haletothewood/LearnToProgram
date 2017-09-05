@@ -11,7 +11,7 @@ def recursive_sort(unsorted_array, sorted_array)
 	x = unsorted_array.pop # popping off the end string
 	temp_array = []
 	unsorted_array.each do |v| #comparing with remaining strings
-		if v.downcase < x.downcase
+		if v.downcase < x.downcase # accounting for capital letters
 			temp_array << x 
 			x = v 
 		else
